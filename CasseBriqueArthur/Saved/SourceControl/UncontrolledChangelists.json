@@ -6,18 +6,23 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/CasseBriqueContent/Meshes/SM_Capsule.uasset",
-				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/CasseBriqueContent/BakedMeshes/SM_Capsule.uasset",
 				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/CasseBriqueContent/BakedMesh/SM_Capsule.uasset",
 				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/CasseBriqueContent/GeneratedMesh/B_GeneratedMesh.uasset",
 				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/CasseBriqueContent/GeneratedMesh/B_GeneratedMesh_Capsule.uasset",
+				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/StarterContent/Shapes/Shape_Cube.uasset",
+				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/CasseBriqueContent/Materials/Glow_Rose.uasset",
+				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/CasseBriqueContent/Blueprints/B_Pawn_Bat.uasset",
+				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/CasseBriqueContent/Blueprints/PlayerController_Bat.uasset",
+				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/CasseBriqueContent/Map/test.umap",
+				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/CasseBriqueContent/Blueprints/GameMode.uasset",
+				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/CasseBriqueContent/Blueprints/GameMode_CasseBrique.uasset",
+				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/CasseBriqueContent/Map/Map_CasseBrique.umap",
+				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/CasseBriqueContent/Meshes/SM_Capsule.uasset",
+				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/CasseBriqueContent/BakedMeshes/SM_Capsule.uasset",
 				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/CasseBriqueContent/Materials/NewMaterial.uasset",
 				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/CasseBriqueContent/BakedMesh/Shape_Cube.uasset",
-				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/StarterContent/Shapes/Shape_Cube.uasset",
 				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/CasseBriqueContent/BakedMesh/SM_Bat.uasset",
-				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/CasseBriqueContent/Materials/Glow_Rose.uasset",
 				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/CasseBriqueContent/Materials/Glow_Yellow.uasset",
-				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/CasseBriqueContent/Blueprints/B_Pawn_Bat.uasset",
 				"/Users/arthurdurand/Documents/GitHub/Casse-Briques/CasseBriqueArthur/Content/CasseBriqueContent/NewWorld.umap"
 			]
 		}
